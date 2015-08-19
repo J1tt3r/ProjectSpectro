@@ -1,1 +1,3 @@
 # ProjectSpectro
+
+#Optimiert für Eclipse
